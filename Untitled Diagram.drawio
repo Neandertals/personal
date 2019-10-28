@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-14T21:35:48.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="YOv_SfNvlD4xu4kf4UPj" version="12.1.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T16:51:46.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="-cnaRBazigVwSML-cL6Z" version="12.1.8" type="github" pages="1">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="4398" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4314" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -49,7 +49,7 @@
         <mxCell id="713" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Preço Fixo&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Preço de listagem&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Dependente de complementos&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Dependent de segmentos&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Dependente de volume&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
           <mxGeometry x="-319" y="860" width="150" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="714" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Venda de ativos&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Taxas de uso&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Taxas de assinatura&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Aluguéis&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Licenciamento&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Taxas de Corretagem&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Publicidade&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
+        <mxCell id="714" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Tipos&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Venda de ativos&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Taxas de uso&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Taxas de assinatura&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Aluguéis&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Licenciamento&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Taxas de Corretagem&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Publicidade&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
           <mxGeometry x="-497" y="860" width="110" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="715" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.mscae.cloud.data_factory;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#2F5B7C;align=left;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="722" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;" parent="720" vertex="1">
           <mxGeometry width="46" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="jF34FIJJfIdk0PxxxPx3-722" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Preço dinâmico&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Negociação (barganha)&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Gestão de rendimentos&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Mercado de tempo-real&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" vertex="1" parent="1">
+        <mxCell id="jF34FIJJfIdk0PxxxPx3-722" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Preço dinâmico&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Negociação (barganha)&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Gestão de rendimentos&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Mercado de tempo-real&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
           <mxGeometry x="-319" y="950" width="120" height="50" as="geometry"/>
         </mxCell>
       </root>
